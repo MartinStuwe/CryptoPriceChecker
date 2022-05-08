@@ -1,3 +1,3 @@
-module github.com/sci-fi-ai/go/model
+module github.com/Sci-Fi-AI/Go/model
 
 go 1.18
