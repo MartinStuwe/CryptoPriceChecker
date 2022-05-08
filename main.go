@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Sci-Fi-AI/Go/client"
+	"github.com/sci-fi-ai/go/client"
 )
 
 func main() {

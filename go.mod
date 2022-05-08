@@ -1,3 +1,3 @@
-module github.com/Sci-Fi-AI/Go
+module github.com/sci-fi-ai/go
 
 go 1.18
