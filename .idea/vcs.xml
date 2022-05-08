@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/Go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/lol/Go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test2/Go" vcs="Git" />
+  </component>
+</project>
