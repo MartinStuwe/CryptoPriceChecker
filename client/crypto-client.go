@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Sci-Fi-AI/Go/tree/main/model
+	"github.com/Sci-Fi-AI/Go/model"
 )
 
 func FetchCrypto(fiat string, crypto string) (string, error) {
