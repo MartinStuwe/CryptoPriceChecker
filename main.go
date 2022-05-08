@@ -19,7 +19,7 @@ func main() {
 
 	flag.Parse()
 
-	crypto, err := client.FetchCrytpo(*fiatCurrency, *nameOfCrypto)
+	crypto, err := client.FetchCrypto(*fiatCurrency, *nameOfCrypto)
 	if err != nil {
 		log.Println(err)
 	}

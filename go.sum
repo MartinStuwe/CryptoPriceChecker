@@ -1,0 +1,4 @@
+github.com/sci-fi-ai/go/client v0.0.0-20220508125119-9c60a7365511 h1:dIxTUCQ+iMZ+ZAEfq3+Nn6lbvEVFEVi4HM5o4hi6aTM=
+github.com/sci-fi-ai/go/client v0.0.0-20220508125119-9c60a7365511/go.mod h1:jeEJG1/e7Te8l6tO12hQo9dwFMWw4EM8LrHujcove6Q=
+github.com/sci-fi-ai/go/model v0.0.0-20220508124818-dd19e818b912 h1:I+uq48Fwl+9U78EfDq5LtCuAzUCxTjxAfFnEBCWpk1M=
+github.com/sci-fi-ai/go/model v0.0.0-20220508124818-dd19e818b912/go.mod h1:PzPuZnUfAyZdSKV7ohV8dCmFUq35ImCd5npRskxnCwE=
